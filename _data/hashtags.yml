@@ -3,6 +3,11 @@
 #   vertical: General
 #   subvertical: ___________
 
+
+- name: FirstDayOfSummer
+  description: "June 21 marks the official first day of summer."
+  vertical: General
+
 - name: MovingDay
   description: "Historically, June-August is peak season for moving. 	You can provide tips and tricks for people looking to move, even during the hectic moving season. If working with movers, here are some helpful tips: schedule at least two weeks in advance; morning time slots fill up faster; there is less demand for movers on weekdays and after Labor Day."
   vertical: Home Services
@@ -37,10 +42,6 @@
 - name: HouseHunting
   description: For posts that center on buying a home
   vertical: Professional Services
-
-- name: GardenPlanning
-  description: This hashtag works great in conjunction with content about Lawn and Garden Month or spring gardening.
-  vertical: General
 
 - name: LuxuryListings
   description: "It's likely that you have some customers who support buyers and sellers in the luxury market. If so, try using this hashtag! It'll help draw in an engaging audience of luxury buyers & real estate enthusiasts. Similar hashtags: #LuxuryRealEstate #LuxuryConso #LuxuryLifestyle"
